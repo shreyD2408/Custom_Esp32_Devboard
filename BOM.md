@@ -36,7 +36,7 @@
 | [01x03  Terminal Blocks](https://www.lcsc.com/product-detail/C918121.html?s_z=n_q_t_Terminal%2520Block%2520&spm=wm.fly.bg.22.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRldbXlFVRlVcVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) | Output Power Connections | 5 | $0.35 | $1.75 | [LCSC](https://www.lcsc.com/product-detail/C918121.html?s_z=n_q_t_Terminal%2520Block%2520&spm=wm.fly.bg.22.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRldbXlFVRlVcVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) |
 | [LED](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) | Power Indication | 100 | $0.01 | $1.00 | [LCSC](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) |
 | **Parts subtotal** | — | — | — | **$26.75** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$26.75** | — |
+| **Tax & shipping** | — | — | — | **$10.52** | — |
+| **Total** | — | — | — | **$37.27** | — |
 
-$38.25 left of the tier's funding.
+$27.73 left of the tier's funding.
