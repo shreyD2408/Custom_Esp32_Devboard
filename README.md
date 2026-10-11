@@ -76,3 +76,5 @@ The 3D Model shows the physical placement of components, copper traces, and conn
 | Tax & Shipping | $17.36 |
 | **Grand Total** | **$57.11 CAD** |
 
+**Disclaimer**- Quantities are not exact as LCSC sells in bulk. 
+
