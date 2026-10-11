@@ -68,6 +68,8 @@ The 3D Model shows the physical placement of components, copper traces, and conn
 | LED | Power indicator | 100 | $0.01 | $1.00 | LCSC |
 | Custom PCB | Component mounting | 5 | $2.60 | $13.00 | JLCPCB |
 
+**Links available in BOM.md**
+
 ### Cost Summary
 
 | Item | Cost |
