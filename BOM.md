@@ -37,7 +37,7 @@
 | [LED](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) | Power Indication | 100 | $0.01 | $1.00 | [LCSC](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) |
 | [Custom PCB Board](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | Where I put on all the components | 5 | $2.60 | $13.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Parts subtotal** | — | — | — | **$39.75** | — |
-| **Tax & shipping** | — | — | — | **$10.52** | — |
-| **Total** | — | — | — | **$50.27** | — |
+| **Tax & shipping** | — | — | — | **$17.36** | — |
+| **Total** | — | — | — | **$57.11** | — |
 
-$14.73 left of the tier's funding.
+$7.89 left of the tier's funding.
