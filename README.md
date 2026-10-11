@@ -9,3 +9,18 @@ This custom board will feature an ESP32-S3-MINI-1 module as the microcontroller,
 I am designing and building this board as a part of the Hack Club Half Life program to develop my skills with circuit design and assembly using KiCad.
 
 # How it Works
+
+1. ESP32-S3-MINI-1: Processes information, reads data, and sends data to different parts of the board through firmware.
+2. Motor Drivers: Control power and polarity of the brushed DC motors using either the USB-C power or external 5V input.
+3. Four motor terminal connectors: Provide connection points for the DC motors for intended motor configuration.
+4. Power Output Points: Designated 5V and GND power outputs for external components.
+5. MPU6050: Measures tilt in radians (or if converted, degrees), and acceleration.
+6. Audio output: Allows a compatible speaker to produce sound through the board's audio circuitry.
+
+The components are connected through a custom-designed schematic and PCB layout. The schematic defines the electrical connections, while the PCB layout determines where components sit and how electrical signals travel through copper traces.
+
+# Schematic
+
+The schematic shows the electrical connection between all built-in components. Editable schematic available in the **hardware** folder.
+
+<img width="654" height="433" alt="Screenshot 2026-10-11 180749" src="https://github.com/user-attachments/assets/3cf2e48a-f9ac-4b76-a35c-27f7b97a5e68" />
