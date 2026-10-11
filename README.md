@@ -27,8 +27,7 @@ The schematic shows the electrical connection between all built-in components. E
 
 # PCB Layout
 
-<img width="522" height="450" alt="Screenshot 2026-10-11 181055" src="https://github.com/user-attachments/assets/e7b0d82c-9e56-4e0d-8087-e278e9d9e160" />
-
+<img width="481" height="437" alt="layout" src="https://github.com/user-attachments/assets/74dac37f-c405-4f01-b9f5-4ef9e2311e8a" />
 
 # 3D Model
 
