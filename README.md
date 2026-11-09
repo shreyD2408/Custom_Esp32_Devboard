@@ -1,16 +1,8 @@
 # SD2408 Devboard V1
 
-This project is a custom ESP32-S3 development board designed for robotics and embedded systems. It integrates two DRV8833 motor drivers, an MPU6050 accelerometer and gyroscope, a MAX98357A audio amplifier, and connections for up to six servos. It also includes USB-C programming, power inputs, and accessible GPIO, ADC, and I2C pins for connecting external components.
+When designing compact mobile robots, such as miniature rovers, self-balancing walkers, or desktop mecanum platforms—builders almost universally hit a frustrating physical bottleneck: the "breadboard jungle." Connecting an ESP32 microcontroller to external motor drivers, motion sensors, audio amplifiers, and servo breakout boards usually requires a rats' nest of jumper wires, perfboards, and loose cables. Every vibration from a motor risks shaking a loose DuPont connector loose, leading to intermittent power faults, debugging nightmares, and fragile hardware.
 
-The goal is to combine commonly used robotics components into one board, reducing external wiring and making prototyping easier. This project is part of Hack Club's Half Life program, where I am developing my PCB design and assembly skills using KiCad.
-# Features
-
-This custom board will feature an ESP32-S3-MINI-1 module as the microcontroller, 2 DRV8833 Motor Drivers, which allow a total of 4 motor inputs, a USB-C connector for programming and power input; alternatively, you can use the 5v terminal block for power input. This board also supports 3 5V and GND outputs for external components. I2C, ADC and GPIO pins are also available on the board via pin headers. ADC pins can be used as GPIO pins. The MPU6050 6-axis gyroscope and accelerometer, and the built-in MAX98357A audio amplifier may be programmed to be used. Separate servo connectors are also supported. It can have up to 6 servos connected at the same time (6 sets of 01x03 pin headers). 
-
-I am designing and building this board as a part of the Hack Club Half Life program to develop my skills with circuit design and assembly using KiCad.
-
-Purpose: To provide an all-in-one development board for robotics projects by integrating motor control, servo connections, motion sensing, audio output, and power distribution.
-Why it exists: To reduce the need for separate modules and complicated wiring while gaining hands-on experience with PCB design, circuit development, and hardware assembly using KiCad.
+This project was built to solve that exact pain point from the ground up: an all-in-one, purpose-built development board that integrates every essential subsystem needed for intelligent, agile robotics onto a single, robust printed circuit board.
 
 # How it Works
 
