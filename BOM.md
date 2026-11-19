@@ -36,9 +36,9 @@
 | [01x03  Terminal Blocks](https://www.lcsc.com/product-detail/C918121.html?s_z=n_q_t_Terminal%2520Block%2520&spm=wm.fly.bg.22.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRldbXlFVRlVcVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) | Output Power Connections | 5 | $0.35 | $1.75 | [LCSC](https://www.lcsc.com/product-detail/C918121.html?s_z=n_q_t_Terminal%2520Block%2520&spm=wm.fly.bg.22.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRldbXlFVRlVcVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) |
 | [LED](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) | Power Indication | 100 | $0.01 | $1.00 | [LCSC](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) |
 | [No-Clean Tacky Flux 10cc](https://www.amazon.ca/gp/product/B09414BPCC/ref=ox_sc_act_title_1?smid=A2GPLZGUK8NBW5&psc=1) | To help solder the components | 1 | $11.46 | $11.46 | [Amazon](https://www.amazon.ca/gp/product/B09414BPCC/ref=ox_sc_act_title_1?smid=A2GPLZGUK8NBW5&psc=1) |
-| [Custom PCB Board](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | Where I put on all the components | 5 | $2.60 | $13.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
-| **Parts subtotal** | — | — | — | **$39.75** | — |
-| **Tax & shipping** | — | — | — | **$17.36** | — |
-| **Total** | — | — | — | **$57.11** | — |
+| [Custom PCB Board](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | Where I put on all the components | 5 | $1.6 | $8 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
+| **Parts subtotal** | — | — | — | **$37.65** | — |
+| **Tax & shipping** | — | — | — | **$14.64** | — |
+| **Total** | — | — | — | **$52.29** | — |
 
 $7.89 left of the tier's funding.
