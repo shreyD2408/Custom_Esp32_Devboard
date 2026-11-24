@@ -37,8 +37,11 @@
 | [LED](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) | Power Indication | 100 | $0.01 | $1.00 | [LCSC](https://www.lcsc.com/product-detail/C19171390.html?s_z=n_q_t_led&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=EVgIUQZXTlhfVFRfQ1FaXl1SFlRdU11REVALU1dfQgMxVlNfRlZaUVNXQVZcUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHkteQlRADxALGw%3D%3D) |
 | [No-Clean Tacky Flux 10cc](https://www.amazon.ca/gp/product/B09414BPCC/ref=ox_sc_act_title_1?smid=A2GPLZGUK8NBW5&psc=1) | To help solder the components | 1 | $11.46 | $11.46 | [Amazon](https://www.amazon.ca/gp/product/B09414BPCC/ref=ox_sc_act_title_1?smid=A2GPLZGUK8NBW5&psc=1) |
 | [Custom PCB Board](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | Where I put on all the components | 5 | $1.6 | $8 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=4&stencilWidth=84&stencilLength=72&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
-| **Parts subtotal** | — | — | — | **$37.65** | — |
+| 2S Lithium Battery | Main power source for the board | 1 | $2.62 | $2.62 | Not specified |
+| **Parts subtotal** | — | — | — | **$40.27** | — |
 | **Tax & shipping** | — | — | — | **$14.64** | — |
-| **Total** | — | — | — | **$52.29** | — |
+| **Total** | — | — | — | **$54.91** | — |
 
-$7.89 left of the tier's funding.
+$4.82 left of the tier's funding.
+
+
